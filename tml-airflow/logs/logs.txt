@@ -12206,3 +12206,4 @@ Already up to date.
 [INFO 2024-11-07_18:35:48] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-LastAttempt-a89c.py
 [ERROR 2024-11-07_18:35:50] ERROR: Cannot connect to MQTT broker in tml_read_MQTT_step_3_kafka_producetotopic_dag-LastAttempt-a89c.py - invalid literal for int() with base 10: ''
 [INFO 2024-11-07_18:36:00] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-LastAttempt-a89c.py
+[INFO 2024-11-07_18:36:06] Visualization DAG in tml_system_step_7_kafka_visualization_dag-LastAttempt-a89c.py
