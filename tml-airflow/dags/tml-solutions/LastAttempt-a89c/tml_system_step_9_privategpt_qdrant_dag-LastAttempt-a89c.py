@@ -35,7 +35,8 @@ default_args = {
  'pgptport' : '8001', # PrivateGPT listening on this port
  'preprocesstype' : '', # Leave as is 
  'partition' : '-1', # Leave as is 
- 'prompt': 'These data are anomaly probabilities of suspicious data traffic. A high probability of over 0.80 is likely suspicious..', # what is this data about? Provide context to PrivateGPT
+ 'prompt': 'Do any of the values of the inbound or outbound packets look abnormal?', # Enter your prompt here
+ 'context' : 'These data are anomaly probabilities of suspicious data traffic. A high probability of over 0.80 is likely suspicious.', # what is this data about? Provide context to PrivateGPT
  'jsonkeytogather' : 'hyperprediction', # enter key you want to gather data from to analyse with PrivateGpt i.e. Identifier or hyperprediction
  'keyattribute' : 'outboundpackets,inboundpackets', # change as needed  
  'keyprocesstype' : 'anomprob',  # change as needed
@@ -47,7 +48,7 @@ default_args = {
 
 ############################################################### DO NOT MODIFY BELOW ####################################################
 # Instantiate your DAG
-@dag(dag_id="tml_system_step_9_privategpt_qdrant_dag_LastAttempt-a89c", default_args=default_args, tags=["tml_system_step_9_privategpt_qdrant_dag_LastAttempt-a89c"], schedule=None,  catchup=False)
+@dag(dag_id="tml_system_step_9_privategpt_qdrant_dag_TMLProject-f1fd", default_args=default_args, tags=["tml_system_step_9_privategpt_qdrant_dag_TMLProject-f1fd"], schedule=None,  catchup=False)
 def startaiprocess():
     # Define tasks
     def empty():
