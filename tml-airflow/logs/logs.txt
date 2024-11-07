@@ -12253,3 +12253,4 @@ Already up to date.
 [INFO 2024-11-07_21:05:25] {'name': ['Project with slug "lastattempt-a89c" already exists.']}
 [INFO 2024-11-07_21:16:31] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-LastAttempt2-a89c.py
 [INFO 2024-11-07_21:16:38] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-LastAttempt2-a89c.py
+[INFO 2024-11-07_21:16:45] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-LastAttempt2-a89c.py
