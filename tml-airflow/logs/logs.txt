@@ -12179,3 +12179,13 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2024-11-07_18:13:14] TML Solution Studio: Github Remote Status: origin	https://github.com/Hooluwole/raspberrypi (fetch)
 origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.git (push)
+[INFO 2024-11-07_18:15:08] TML Solution Studio: TML Project Creation: Creating new TML project: /raspberrypi/tml-airflow/dags/tml-solutions/LastAttempt-a89c
+[INFO 2024-11-07_18:15:08] TML Solution Studio: git pull --rebase --autostash origin main Status: From https://github.com/Hooluwole/raspberrypi
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[INFO 2024-11-07_18:15:46] TML Solution Studio: Starting Git commit process for project: LastAttempt-a89c
+[INFO 2024-11-07_18:15:46] TML Solution Studio: git commit -a Status for project LastAttempt-a89c: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-11-07_18:15:46] TML Solution Studio: git push origin main Status: Everything up-to-date
+[INFO 2024-11-07_18:15:46] TML Solution Studio: git add . Status: 
+[INFO 2024-11-07_18:15:46] TML Solution Studio: git commit -a Status for project LastAttempt-a89c: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-11-07_18:15:47] TML Solution Studio: git push Status for project LastAttempt-a89c: Everything up-to-date
