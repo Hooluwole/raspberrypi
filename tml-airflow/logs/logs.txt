@@ -12251,3 +12251,4 @@ Already up to date.
 [INFO 2024-11-07_21:02:02] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-LastAttempt-a89c.py
 [INFO 2024-11-07_21:02:32] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-LastAttempt-a89c.py
 [INFO 2024-11-07_21:05:25] {'name': ['Project with slug "lastattempt-a89c" already exists.']}
+[INFO 2024-11-07_21:16:31] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-LastAttempt2-a89c.py
