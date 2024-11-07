@@ -12190,3 +12190,4 @@ Already up to date.
 [INFO 2024-11-07_18:15:46] TML Solution Studio: git commit -a Status for project LastAttempt-a89c: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-11-07_18:15:47] TML Solution Studio: git push Status for project LastAttempt-a89c: Everything up-to-date
 [INFO 2024-11-07_18:30:52] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-LastAttempt-a89c.py
+[INFO 2024-11-07_18:31:01] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-LastAttempt-a89c.py
