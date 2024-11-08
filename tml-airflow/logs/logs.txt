@@ -12387,3 +12387,4 @@ origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.g
 [INFO 2024-11-08_04:03:32] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-lastattempt2-a89c.py
 [INFO 2024-11-08_04:03:40] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-lastattempt2-a89c.py
 [INFO 2024-11-08_04:03:48] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-lastattempt2-a89c.py
+[INFO 2024-11-08_04:04:00] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-lastattempt2-a89c.py
