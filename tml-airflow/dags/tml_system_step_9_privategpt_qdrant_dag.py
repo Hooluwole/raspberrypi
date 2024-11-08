@@ -92,14 +92,15 @@ def startpgptcontainer():
       return v,buf
  
 def qdrantcontainer():
-
+    v=0
+    buf=""
     if int(default_args['concurrency']) > 1:
       buf="docker stop $(docker ps -q --filter ancestor=qdrant/qdrant )"
       subprocess.call(buf, shell=True)
       time.sleep(4)
       buf = "docker run -d -p 6333:6333 -v $(pwd)/qdrant_storage:/qdrant/storage:z qdrant/qdrant"
       v=subprocess.call(buf, shell=True)
-      return v,buf
+    return v,buf
 
 def pgptchat(prompt,context,docfilter,port,includesources,ip,endpoint):
 
@@ -358,9 +359,10 @@ if __name__ == '__main__':
           tsslogging.locallogs("INFO", "STEP 9: Success starting privateGPT.  Here is the run command: {}".format(buf))
          
         v,buf=qdrantcontainer()
-        if v==1:
+        if buf != "":
+         if v==1:
           tsslogging.locallogs("WARN", "STEP 9: There seems to be an issue starting the Qdrant container.  Here is the run command - try to run it nanually for testing: {}".format(buf))
-        else:
+         else:
           tsslogging.locallogs("INFO", "STEP 9: Success starting Qdrant.  Here is the run command: {}".format(buf))
         
         time.sleep(10)  # wait for containers to start
