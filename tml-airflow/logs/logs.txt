@@ -12393,3 +12393,4 @@ origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.g
 [ERROR 2024-11-08_04:04:43] ERROR: Cannot connect to MQTT broker in tml_read_MQTT_step_3_kafka_producetotopic_dag-lastattempt2-a89c.py - invalid literal for int() with base 10: ''
 [INFO 2024-11-08_04:04:53] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-lastattempt2-a89c.py
 [INFO 2024-11-08_04:04:59] Visualization DAG in tml_system_step_7_kafka_visualization_dag-lastattempt2-a89c.py
+[INFO 2024-11-08_04:05:22] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-lastattempt2-a89c.py
