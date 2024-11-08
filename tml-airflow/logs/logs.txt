@@ -12485,3 +12485,20 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2024-11-08_14:12:31] TML Solution Studio: Github Remote Status: origin	https://github.com/Hooluwole/raspberrypi (fetch)
 origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.git (push)
+[INFO 2024-11-08_15:59:08] TML Solution Studio Started: DOCKERUSERNAME=hooluwole70, GITUSERNAME=Hooluwole, GITREPOURL=https://github.com/Hooluwole/raspberrypi, AIRFLOWPORT=9000
+[INFO 2024-11-08_15:59:13] TML Solution Studio: Docker Login Status: Error response from daemon: Get "https://registry-1.docker.io/v2/": unauthorized: incorrect username or password
+[INFO 2024-11-08_15:59:13] TML Solution Studio: Github Config Status: safe.directory=/raspberrypi
+pull.rebase=true
+user.email=Hooluwole@email
+user.name=Hooluwole
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/Hooluwole/raspberrypi
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-11-08_15:59:13] TML Solution Studio: Github Remote Status: origin	https://github.com/Hooluwole/raspberrypi (fetch)
+origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.git (push)
