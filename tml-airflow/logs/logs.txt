@@ -12438,3 +12438,4 @@ origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.g
 [INFO 2024-11-08_12:16:23] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-lastattempt2-a89c.py
 [INFO 2024-11-08_12:16:49] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-lastattempt2-a89c.py
 [INFO 2024-11-08_12:16:56] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-lastattempt2-a89c.py
+[INFO 2024-11-08_12:17:03] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-lastattempt2-a89c.py
