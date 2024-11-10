@@ -12707,3 +12707,4 @@ origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.g
 [INFO 2024-11-10_03:48:42] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-lastattempt2-a89c.py
 [INFO 2024-11-10_03:49:17] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-lastattempt2-a89c.py
 [INFO 2024-11-10_03:54:08] {'name': ['Project with slug "lastattempt2-a89c" already exists.']}
+[INFO 2024-11-10_04:01:16] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-finalattempt-a89c.py
