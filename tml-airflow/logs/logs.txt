@@ -12659,3 +12659,4 @@ origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.g
 [INFO 2024-11-10_01:41:24] {'name': ['Project with slug "finalattempt-a89c" already exists.']}
 [INFO 2024-11-10_01:54:11] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-finalattempt-a89c.py
 [INFO 2024-11-10_01:54:21] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-finalattempt-a89c.py
+[INFO 2024-11-10_01:54:30] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-finalattempt-a89c.py
