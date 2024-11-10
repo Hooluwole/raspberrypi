@@ -12717,3 +12717,4 @@ origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.g
 [INFO 2024-11-10_04:03:29] Visualization DAG in tml_system_step_7_kafka_visualization_dag-finalattempt-a89c.py
 [INFO 2024-11-10_04:04:12] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-finalattempt-a89c.py
 [INFO 2024-11-10_04:04:42] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-finalattempt-a89c.py
+[INFO 2024-11-10_04:13:03] {'name': ['Project with slug "finalattempt-a89c" already exists.']}
