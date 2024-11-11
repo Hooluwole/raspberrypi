@@ -12746,3 +12746,4 @@ origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.g
 [INFO 2024-11-10_19:43:41] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-finalattempt-a89c.py
 [INFO 2024-11-10_19:44:59] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-finalattempt-a89c.py
 [INFO 2024-11-10_19:49:09] {'name': ['Project with slug "finalattempt-a89c" already exists.']}
+[ERROR 2024-11-11_17:19:03] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-finalattempt-a89c.py the JSON object must be str, bytes or bytearray, not NoneType
