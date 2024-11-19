@@ -12802,3 +12802,4 @@ origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.g
 [INFO 2024-11-19_00:25:43] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-finalattempt-a89c.py
 [INFO 2024-11-19_00:25:47] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-finalattempt-a89c.py
 [INFO 2024-11-19_00:25:49] Visualization DAG in tml_system_step_7_kafka_visualization_dag-finalattempt-a89c.py
+[INFO 2024-11-19_00:26:04] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-finalattempt-a89c.py
