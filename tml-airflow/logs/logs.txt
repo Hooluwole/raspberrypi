@@ -12822,3 +12822,4 @@ origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.g
 [INFO 2024-11-19_03:00:17] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-finalattempt-a89c.py
 [INFO 2024-11-19_03:00:20] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-finalattempt-a89c.py
 [INFO 2024-11-19_03:00:35] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-finalattempt-a89c.py
+[INFO 2024-11-19_03:00:41] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-finalattempt-a89c.py
