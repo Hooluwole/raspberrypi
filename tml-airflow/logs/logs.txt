@@ -12796,3 +12796,4 @@ branch.main.merge=refs/heads/main
 origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.git (push)
 [INFO 2024-11-19_00:25:14] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-finalattempt-a89c.py
 [INFO 2024-11-19_00:25:18] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-finalattempt-a89c.py
+[INFO 2024-11-19_00:25:21] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-finalattempt-a89c.py
