@@ -12851,3 +12851,4 @@ origin	https://<personal access token hidden>@github.com/Hooluwole/raspberrypi.g
 [INFO 2024-11-21_00:37:53] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-finalattempt-a89c.py
 [INFO 2024-11-21_00:38:08] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-finalattempt-a89c.py
 [INFO 2024-11-21_00:38:12] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-finalattempt-a89c.py
+[INFO 2024-11-21_00:38:15] Visualization DAG in tml_system_step_7_kafka_visualization_dag-finalattempt-a89c.py
